@@ -9,3 +9,5 @@ Session 2 : Numeric and graphic representations of data
 Session 3 : Studying the data and detection of patterns
 
 Session 4 : Simple linear regression to detect patterns of weights vs heights
+
+Session 5 : Classification and clustering of data to detect patterns of weights vs heights
